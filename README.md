@@ -2,7 +2,7 @@
 
 
 - 📖 I'm a back-end dev 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Lua and Java
 - 🇧🇷 I'm from Brazil
 
 
