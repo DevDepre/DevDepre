@@ -22,10 +22,9 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 ```
 
 ----
-
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
- 
+</div>
 ----
 <h2 align="center"> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
