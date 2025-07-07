@@ -39,13 +39,11 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 
 ----
 
-<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDepre)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
-</p>
-
+ 
 ----
-<hr>
 <h2> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" class="javascript" width="45" height="45"/>
