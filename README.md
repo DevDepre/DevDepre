@@ -49,7 +49,7 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 
 ----
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDepre&layout=donutchart&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdepre&layout=donut&theme=dark)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
 
 
