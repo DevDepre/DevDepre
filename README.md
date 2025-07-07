@@ -27,7 +27,6 @@ current_job: Full Stack Developer
 education:
   [
     "Web Developer and Designer",
-    "System Development Technician",
     "SQL Developer"
   ]
 
@@ -36,6 +35,12 @@ fields_of_interests:
     "Web Development",
     "Machine Learning",
     "Data Analysis"
+  ]
+
+technical_background:
+  [
+    "System Development Technician",
+    ""
   ]
 
 currently_learning: ["FastApi, React, NodeJS, Express"]
