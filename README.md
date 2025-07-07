@@ -1,4 +1,4 @@
-<h2>  &nbsp;A Little Bit About Me and My Interests</h2>
+<h2 align="center">  &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: DevDepre
@@ -27,7 +27,7 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
  
 ----
-<h2> &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" class="javascript" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" class="typescript" width="45" height="45"/>
