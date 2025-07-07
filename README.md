@@ -1,18 +1,3 @@
-<p align="center">
-    <a href="https://www.instagram.com/d3v_depre/?next=%2F">
-        <img  height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png">
-    </a>
-    <a href="https://www.tiktok.com/@programador_depressivo">
-        <img  height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-256.png">
-    </a>
-    <a href="https://www.youtube.com/@Dev_Depre">
-        <img  height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png">
-    </a>
-    <a href="">
-        <img  height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png">
-    </a>
-</p>
-
 <h2>  &nbsp;A Little Bit About Me and My Interests</h2>
 ----
 
@@ -40,7 +25,6 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 ----
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDepre)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
  
 ----
@@ -58,5 +42,18 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" class="mysql" width="45" height="45"/>
 </p>
 
-
+<p align="center">
+    <a href="https://www.instagram.com/d3v_depre/?next=%2F"  margin-rigth="15">
+        <img  height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png">
+    </a>
+    <a href="https://www.tiktok.com/@programador_depressivo"  margin-rigth="15">
+        <img  height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-256.png">
+    </a>
+    <a href="https://www.youtube.com/@Dev_Depre"  margin-rigth="15">
+        <img  height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png">
+    </a>
+    <a href=""  margin-rigth="15">
+        <img  height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png">
+    </a>
+</p>
 
