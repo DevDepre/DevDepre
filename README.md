@@ -40,7 +40,8 @@ fields_of_interests:
 technical_background:
   [
     "System Development Technician",
-    ""
+    "+2 years of experience with web development (Back-end and Front-end)"
+    "Experience with Linux and customization of development environments"
   ]
 
 currently_learning: ["FastApi, React, NodeJS, Express"]
