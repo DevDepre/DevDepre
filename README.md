@@ -52,16 +52,13 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" class="typescript" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" class="python" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" class="fastapi" width="45" height="45"/>
-</p>
-
-<p align="center">
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" class="archlinux" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" class="linux" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" class="archlinux" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" class="archlinux" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" class="nvim" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" class="vscode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" class="git" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" class="mysql" width="45" height="45"/>
 </p>
+
 
 
