@@ -1,12 +1,11 @@
-## Hi, My name is Lucchks 
+# I am Depre 
 
-
-- 📖 I'm a back-end dev 
+- 📖 I'm a FullStack dev 
 - 🌱 I’m currently learning Python, Lua and Java
 - 🇧🇷 I'm from Brazil
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucchks&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
 
 <div>
   <a href = "https://www.instagram.com/d3v_depre/?next=%2F"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
