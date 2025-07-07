@@ -16,9 +16,6 @@
     <a href="https://www.youtube.com/@Dev_Depre" style="text-decoration: none;" >
         <img  height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png">
     </a>
-    <a href="" style="text-decoration: none;" >
-        <img  height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png">
-    </a>
 </p>
 
 <h2 align="center">  &nbsp;A Little Bit About Me and My Interests</h2>
