@@ -1,7 +1,7 @@
 # I am Depre 
 
 - 📖 I'm a FullStack dev 
-- 🌱 I’m currently learning Python, Lua and Java
+- 🌱 I Work JavaScript, HTML, CSS, Python, Java
 - 🇧🇷 I'm from Brazil
 
 
