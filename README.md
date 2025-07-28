@@ -75,14 +75,4 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 
 <h2 align="center"> &nbsp;Some Tools I Have Used and Learned</h2>
 
-<p>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=arch" width="65">
-<img src="https://skillicons.dev/icons?i=linux" width="65">
-<img src="https://skillicons.dev/icons?i=css" width="65">
-<img src="https://skillicons.dev/icons?i=html" width="65"> 
-<img src="https://skillicons.dev/icons?i=fastapi" width="65">
-<img src="https://skillicons.dev/icons?i=git" width="65">
-<img src="https://skillicons.dev/icons?i=neovim" width="65">
-<img src="https://skillicons.dev/icons?i=vscode" width="65">
-</p>
+
