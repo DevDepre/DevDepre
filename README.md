@@ -108,4 +108,4 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
     </table>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
