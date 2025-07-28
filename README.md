@@ -102,7 +102,7 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
                 <img src="https://skillicons.dev/icons?i=vscode" width="65">
             </td>
             <td>
-                <<img src="https://skillicons.dev/icons?i=mysql" width="65">
+                <img src="https://skillicons.dev/icons?i=mysql" width="65">
             </td>
         </tr>
     </table>
