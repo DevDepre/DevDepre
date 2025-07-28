@@ -56,15 +56,17 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
  
 ----
 <h2 align="center"> &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" class="typescript" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" class="python" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" class="fastapi" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" class="linux" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" class="archlinux" width="45" height="45" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" class="nvim" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" class="vscode" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" class="git" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" class="mysql" width="45" height="45"/>
+<p>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=arch" width="65">
+<img src="https://skillicons.dev/icons?i=linux" width="65">
+<img src="https://skillicons.dev/icons?i=css" width="65">
+<img src="https://skillicons.dev/icons?i=html" width="65"> 
+<img src="https://skillicons.dev/icons?i=fastapi" width="65">
+<img src="https://skillicons.dev/icons?i=git" width="65">
+<img src="https://skillicons.dev/icons?i=neovim" width="65">
+<img src="https://skillicons.dev/icons?i=vscode" width="65">
 </p>
