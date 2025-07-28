@@ -55,7 +55,7 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
 
  
 ----
-<h2 align="center"> &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> &nbsp;My Proggraming Language </h2>
 
 <div align="center">
   <table>
@@ -73,6 +73,7 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
   </table>
 </div>
 
+<h2 align="center"> &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p>
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
