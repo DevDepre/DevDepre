@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=#5a189a&text=Hello%20Everyone%20&textBg=false&fontSize=90&fontColor=f2edf9&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Hello%20Everyone%20&textBg=false&fontSize=90&fontColor=f2edf9&reversal=false"/>
 </p>
 
 <h1 align="center">
@@ -108,4 +108,3 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
     </table>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color#5a189a&height=120&section=footer"/>
