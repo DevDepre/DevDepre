@@ -69,6 +69,9 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
           <td>
               <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
           </td>
+          <td>
+              <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+          </td>
       </tr>
   </table>
 </div>
