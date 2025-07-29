@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://www.instagram.com/d3v_depre/?next=%2F" style="text-decoration: none;" >
+    <a style = "margin-right: 15px;" href="https://www.instagram.com/d3v_depre/?next=%2F" style="text-decoration: none;" >
         <img  height="45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png">
     </a>
     <a href="https://www.tiktok.com/@programador_depressivo" style="text-decoration: none;" >
