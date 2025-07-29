@@ -93,6 +93,9 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
             <td>
                 <img src="https://skillicons.dev/icons?i=linux" width="65">
             </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=archlinux" width="65">
+            </td>
         </tr>
         <tr>
             <td>
@@ -103,6 +106,9 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
             </td>
             <td>
                 <img src="https://skillicons.dev/icons?i=vscode" width="65">
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=idea" width="65">
             </td>
             <td>
                 <img src="https://skillicons.dev/icons?i=mysql" width="65">
