@@ -94,7 +94,7 @@ currently_learning: ["FastApi, React, NodeJS, Express"]
                 <img src="https://skillicons.dev/icons?i=linux" width="65">
             </td>
             <td>
-                <img src="https://skillicons.dev/icons?i=archlinux" width="65">
+                <img src="https://skillicons.dev/icons?i=arch" width="65">
             </td>
         </tr>
         <tr>
