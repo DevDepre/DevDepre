@@ -44,7 +44,7 @@ technical_background:
     "Experience with Linux and customization of development environments"
   ]
 
-currently_learning: ["FastApi, React, NodeJS, Express"]
+currently_learning: ["FastApi, React, NodeJS, Express, Spring"]
 ```
 
 ----
