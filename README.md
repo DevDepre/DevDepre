@@ -27,24 +27,27 @@ current_job: Full Stack Developer
 education:
   [
     "Web Developer and Designer",
-    "SQL Developer"
+    "SQL Developer",
+    "Backend Developer"
   ]
 
 fields_of_interests:
   [
     "Web Development",
     "Machine Learning",
-    "Data Analysis"
+    "Data Analysis",
+    "Automation"
   ]
 
 technical_background:
   [
     "System Development Technician",
     "+2 years of experience with web development (Back-end and Front-end)"
+    "<1 years of experience with automations"
     "Experience with Linux and customization of development environments"
   ]
 
-currently_learning: ["FastApi, React, NodeJS, Express, Spring"]
+currently_learning: ["FastApi, React, NodeJS, Express, Spring, n8n, Uvicorn, Pydantic"]
 ```
 
 ----
