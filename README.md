@@ -22,30 +22,34 @@
 
 ```yaml
 name: DevDepre
-located_in: Rio de janeiro, Brazil
-current_job: Full Stack Developer
-education:
-  [
-    "Web Developer and Designer",
-    "SQL Developer",
-    "Backend Developer"
-  ]
+located_in: Rio de Janeiro, Brazil
+role: Full Stack Developer (backend-focused)
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Machine Learning",
-    "Data Analysis",
-    "Automation"
-  ]
+focus:
+[
+    "Backend systems and APIs"
+    "Data persistence and organization"
+    "Full stack architecture with solid backend"
+    "Front-end with React, Next.js and Tailwind CSS"
+    "Linux-based development environments"
+]
 
 technical_background:
-  [
-    "System Development Technician",
-    "+2 years of experience with web development (Back-end and Front-end)"
-    "<1 years of experience with automations"
-    "Experience with Linux and customization of development environments"
-  ]
+[
+  "System Development Technician"
+  "Experience building full stack applications with strong backend architecture"
+  "Work with relational databases (SQLite, MariaDB/MySQL)"
+  "Development of modern front-end interfaces using React, Next.js and Tailwind"
+  "Daily use of Linux (Arch) and customization of development environments"
+]
+
+what_i_build:
+[
+  "Full stack systems with backend as the core"
+  "APIs for data-driven applications"
+  "Web applications with modern front-end (React, Next.js, Tailwind)"
+  "Practical solutions for real problems"
+]
 ```
 
 ----
