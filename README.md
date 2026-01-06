@@ -51,14 +51,6 @@ what_i_build:
     "Practical solutions for real problems"
   ]
 ```
-
-----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdepre&layout=donut&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDepre&show_icons=true&theme=dark)
-
-
- 
 ----
 <h2 align="center"> &nbsp;My Proggraming Language </h2>
 
