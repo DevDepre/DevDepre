@@ -46,8 +46,6 @@ technical_background:
     "<1 years of experience with automations"
     "Experience with Linux and customization of development environments"
   ]
-
-currently_learning: ["FastApi, React, NodeJS, Express, Spring, n8n, Uvicorn, Pydantic"]
 ```
 
 ----
