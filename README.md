@@ -26,30 +26,30 @@ located_in: Rio de Janeiro, Brazil
 role: Full Stack Developer (backend-focused)
 
 focus:
-[
-    "Backend systems and APIs"
-    "Data persistence and organization"
-    "Full stack architecture with solid backend"
-    "Front-end with React, Next.js and Tailwind CSS"
-    "Linux-based development environments"
-]
+  [
+      "Backend systems and APIs"
+      "Data persistence and organization"
+      "Full stack architecture with solid backend"
+      "Front-end with React, Next.js and Tailwind CSS"
+      "Linux-based development environments"
+  ]
 
 technical_background:
-[
-  "System Development Technician"
-  "Experience building full stack applications with strong backend architecture"
-  "Work with relational databases (SQLite, MariaDB/MySQL)"
-  "Development of modern front-end interfaces using React, Next.js and Tailwind"
-  "Daily use of Linux (Arch) and customization of development environments"
-]
+  [
+    "System Development Technician"
+    "Experience building full stack applications with strong backend architecture"
+    "Work with relational databases (SQLite, MariaDB/MySQL)"
+    "Development of modern front-end interfaces using React, Next.js and Tailwind"
+    "Daily use of Linux (Arch) and customization of development environments"
+  ]
 
 what_i_build:
-[
-  "Full stack systems with backend as the core"
-  "APIs for data-driven applications"
-  "Web applications with modern front-end (React, Next.js, Tailwind)"
-  "Practical solutions for real problems"
-]
+  [
+    "Full stack systems with backend as the core"
+    "APIs for data-driven applications"
+    "Web applications with modern front-end (React, Next.js, Tailwind)"
+    "Practical solutions for real problems"
+  ]
 ```
 
 ----
